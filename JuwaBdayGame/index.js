@@ -117,11 +117,7 @@ charactersMap.forEach((row, i) => {
           },
           scale: 1,
           animate: true,
-          dialogue: ["Ahuhuhu...", "Juwaaaa Hola qui til...", "today is the day!...", "today is juwa birthday!...",  "i am so ♪♫ hapi hapi hapi ♪♫...", "and woowwww you look super cute today!!!!...", "you know, there is a birthday Party for you today...",
-                      "sounds exciting right? i can see that you are excited by the way your ears move!...", "anyways so, the Birthday Party is on the other side of the island...",
-                    "but umm.. ", "can i ask you to help me with something?...", "do you see those dark green fields?...", "could you please please please use your strong abilities to remove all of the Monsters there?...",
-                    "i know this is a strange request but youre the only one whos strong enough to die them!!...", "Perfect Thank You!!...","there are 3 fields on this island and 2 on the other island...",
-                    "you can do this i believe in you!!!...", "Ahuhuhuhuhuhuhuh"],
+          dialogue: [""],
                     
           
         })
@@ -143,10 +139,7 @@ charactersMap.forEach((row, i) => {
           },
           scale: 1,
           animate: true,
-          dialogue: ["Waaahuhuhuhu very hellooo Juws Muws Juwbub Jumbub jumum and happy birthday!!...", 
-                      "are you doing good today? you look great!...", "many people have gathered here today to celebrate your birthday!...",
-                    "i even heard about special guests that only came to see you today!...", "you should go and talk to the others that came to see you, maybe they have some things to tell you",
-                  "anyways, HAPOPY BIRTHDEY"]
+          dialogue: [""]
         })
       )
     }
@@ -165,8 +158,7 @@ charactersMap.forEach((row, i) => {
           },
           scale: 1,
           animate: true,
-          dialogue: ["..", "oh JUWA!...", "i didnt notice you because of Jimmy next to me. he talks about weird stuff every time we go to see the ocean...", "i wish you a happy Birthday!...",
-                        "oh and also, you look slay today! such a queen purr purrrrr...", "laahuhuhuhu"]
+          dialogue: [""]
         })
       )
     }
@@ -184,8 +176,7 @@ charactersMap.forEach((row, i) => {
           },
           scale: 1,
           animate: true,
-          dialogue: [".........", "oi armin....", "if we kill all enemies on the other side of the ocean...", "...will we finally be free?...", "this eren guy is so cool i wish i would be him...", "♪♫  sasageyooo sasageyoooooo♪♫....  ",
-                    "Aaaah Juuwaa. . . .", "u is birthday ehh?...", "i wish you eternal freedom and muchos muwos...", "Fahuhuhuu"]
+          dialogue: [""]
         })
       )
     }
@@ -204,8 +195,7 @@ charactersMap.forEach((row, i) => {
           },
           scale: 1,
           animate: true,
-          dialogue: ["meow meow im a cow i said meow meow im a cow...", ".........", "oh hi JUUUUUUWA...", "muuuuuhhpy muuuuhhday", "i cant stop singing this song since i met this gato on the other island...",
-                    "i feel like gato used magic on me so i cant stop singing...", "...", "Muuuhuhuuhuhhu"]
+          dialogue: [""]
         })
       )
     }
@@ -224,9 +214,7 @@ charactersMap.forEach((row, i) => {
           },
           scale: 1,
           animate: true,
-          dialogue: ["..", "...", "ich habe dich schon erwartet Juwa...", "Heute ist dein Geburtstag stimmts?...", "Happy Birthday...", "Ich weiß, dass ist jetzt vielleicht nicht der beste Zeitpunkt aber...", "ein wind der gefahr zieht auf...",
-                    "..vielleicht sehen wir uns heute ja wieder...", "von wem ich rede?..", "....", "Drink Gato...", "eine Gato, welche der Legende nach so groß ist, dass sie einen ganzen Ozean austrinken kann...",
-                     "egal vergiss was ich gesagt habe. Drink Gato wird wahrscheinlich sowieso nicht erscheinen...", "Genieß deinen Birthday und lass ein Stück Kuchen für mich übrig!...", "Maahuuhuhuhuh"]
+          dialogue: [""]
         })
       )
     }
@@ -245,8 +233,7 @@ charactersMap.forEach((row, i) => {
           },
           scale: 1,
           animate: true,
-          dialogue: ["Muuhhh Juwa!...", "did you see my friend today?...", "he is behaving a little weird lately since he is talking to this pink cat on the other island...",
-                      "maybe you can find the cat and talk to it to find out what they have been talking about...", "Anyways, Muuuuhhhhppyy Muuuhhhday!"]
+          dialogue: [""]
         })
       )
     }
@@ -265,8 +252,7 @@ charactersMap.forEach((row, i) => {
           },
           scale: 1,
           animate: true,
-          dialogue: ["i dont know why this cow sings about meow but i like it...","i listen to it for.  .   .  13hours .   .  . now...", "..well uhhh Hi Juwa!...", "are you excited about your birthday?....",
-                    "great! im really excited too!...", "i wonder what special guests will be there?", "laaaalalalalalaaa"]
+          dialogue: [""]
         })
       )
     }
@@ -285,9 +271,7 @@ charactersMap.forEach((row, i) => {
           },
           scale: 1,
           animate: true,
-          dialogue: ["hiyo juwo muwo!...", "you see what direction i am looking to?...", "thats the way to the other island",
-                    "so when you finished exploring this island you can come back and follow this pathway...","oh right its your birthday today!...",
-                  "el hapy el birthdayo!...", "Auhuhuhuhuh"]
+          dialogue: [""]
         })
       )
     }
@@ -305,7 +289,7 @@ charactersMap.forEach((row, i) => {
           },
           scale: 1,
           animate: true,
-          dialogue: ["Hilio Hillo Halulu Juwa!...", "Oh Du hast Geburtstag?...", "Ok Geburtstag.", "Lababababbaaa"]
+          dialogue: [""]
         })
       )
     }
@@ -324,9 +308,7 @@ charactersMap.forEach((row, i) => {
           },
           scale: 1,
           animate: true,
-          dialogue: ["Hi juwa!...", "Diese zwei Bäume sehen schön aus oder?...", "Das erinnert mich an etwas, was du mal gesagt hast!...",
-                    "....hust hust....", "~haha stirb pflanze!~...", "~die blume ist einfach gott~...", "~nein das ist keine Blume, die hat Blätter~...",
-                  "hihihahahahauhaihuhaihuahiu ein all time classic"]
+          dialogue: [""]
         })
       )
     }
@@ -345,7 +327,7 @@ charactersMap.forEach((row, i) => {
           },
           scale: 1,
           animate: true,
-          dialogue: ["ahhhhhh i wishh i wasss a biiiirddddd...", "i wonder what those fruits on the tree taste like"]
+          dialogue: [""]
         })
       )
     }
@@ -364,7 +346,7 @@ charactersMap.forEach((row, i) => {
           },
           scale: 1,
           animate: true,
-          dialogue: ["thats a really strange looking fish"]
+          dialogue: [""]
         })
       )
     }
@@ -383,7 +365,7 @@ charactersMap.forEach((row, i) => {
           },
           scale: 1,
           animate: true,
-          dialogue: ["what breed is this fish?...", "its is so big"]
+          dialogue: [""]
         })
       )
     }
@@ -402,7 +384,7 @@ charactersMap.forEach((row, i) => {
           },
           scale: 1,
           animate: true,
-          dialogue: ["Oi oii ooiiiiiiii Juwwwkaaa!...","is this quaso gato ?????", "ich komme auch zu deiner birthday party aber...", "aber...","ich muss meinen tee noch trocknen lassen"]
+          dialogue: [""]
         })
       )
     }
@@ -421,7 +403,7 @@ charactersMap.forEach((row, i) => {
           },
           scale: 1,
           animate: true,
-          dialogue: ["halulu juws!...", "youre almost there!...", "das ist der letzte fight!"]
+          dialogue: [""]
         })
       )
     }
@@ -440,7 +422,7 @@ charactersMap.forEach((row, i) => {
           },
           scale: 1,
           animate: true,
-          dialogue: ["you made it!!!...", "now go to yo birthday party lalalalala"]
+          dialogue: [""]
         })
       )
     }
@@ -459,7 +441,7 @@ charactersMap.forEach((row, i) => {
           },
           scale: 1,
           animate: true,
-          dialogue: ["alala koko chumbo ayayeeeeee wohooowww"]
+          dialogue: [""]
         })
       )
     }
@@ -478,7 +460,7 @@ charactersMap.forEach((row, i) => {
           },
           scale: 1,
           animate: true,
-          dialogue: ["top 10 most best insane birthday parties i ever seen wowie hahuhuhuhuhu"]
+          dialogue: [""]
         })
       )
     }
@@ -497,7 +479,7 @@ charactersMap.forEach((row, i) => {
           },
           scale: 1,
           animate: true,
-          dialogue: ["hiihuahuhihuhaiahihauhu what a nice birthday party yyaayyy wowhohohohooo soo greatttttt"]
+          dialogue: [""]
         })
       )
     }
@@ -516,7 +498,7 @@ charactersMap.forEach((row, i) => {
           },
           scale: 1,
           animate: true,
-          dialogue: ["OMG i can see the special guests!!! WOWOWOWOWOWOWWOOW"]
+          dialogue: [""]
         })
       )
     }
@@ -535,12 +517,7 @@ charactersMap.forEach((row, i) => {
           },
           scale: 1,
           animate: true,
-          dialogue: ["Hello its me The bub...", "the bubshub...", "shubshub....", "bub shub shubub bub mub shushu mub bububub...",
-                     "you reached the very end of your birthday present...", "the party with them special guests!...", "bana cry gato...", "bana heart gato...", "and idk stand gato look silly and cute...",
-                     "also Juwa Juwbub mubub muwbuba boobajuwa boobjuub...","i want to tell you...", "no matter what, i will always be there for you and i will always love you...", "in the good and the bad times, you can always count on me...",
-                     "thank you very much for beeing such a wonderfull person i reaallyyy love you...", "its is a pleasure to be your boifren...", "now im gonna qute a poem i told you once...", 
-                     "God gave me...", "Eyes not to look at byches but to look at JUWA...", "Mouth not to eat dyck but to kiss JUWA...", "Ears not to hear stopid kyds but to hear JUWA...",
-                     "Hands to slap juwa ass...", "Happy Birthday my love!"]
+          dialogue: [""]
         })
       )
     }
